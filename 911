@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>9/11</title>
+    <style>
+      td,
+      tr,
+      th{
+        border:solid black 2px;
+      }
+    </style>
+  </head>
+  <body>
+    <center>
+      <h1>NO DAY SHALL ERASE YOU FROM THE MEMORY OF TIME</h1>
+      <table style="font-family:monospace;">
+        <tr>
+          <th scope="col"></th>
+          <th scope="col">Twin Towers</th>
+          <th scope="col">Freedom Tower</th>        
+        </tr>
+        <tr>
+          <th></th>
+          <td>
+            <img src="twintowers.jpeg">
+          </td>
+          <td>
+            <center><img src="1%20wtc.png"></center>
+          </td>
+        </tr>
+        <tr>
+          <th>Support</th>
+          <td>
+            <ul>
+              <li>
+                Had Central Cores that held up the<br>
+                weight of the floors above it
+              </li> 
+              <li>Was vulnerable to truck bombs</li>
+              <li>Surrounded by a curtain wall</li>
+              <li>
+                Like the freedom tower, surrounded<br> 
+                by slurry wall(s) designed to hold<br>
+                back the Hudson River
+              </li>
+            </ul>
+          </td>
+
+          <td>
+            <ul>
+              <li>Windowless pedestal</li>
+              <li>200-feet by 200-feet</li>
+              <li>height of 186 feet</li>
+              <li>
+                designed to absorb and<br>
+                deflect blast from largest<br>
+                vehicular bombs.
+              </li>
+              <hr>
+              <li>robust column of steel<br>
+                framing with multiple<br>
+                levels of redundancy—
+              </li>
+              <li>
+                beams and columns<br>
+                welded and bolted<br>
+                together and designed<br>
+                to resist lateral loads<br>
+              </li>
+              <hr>
+              <li>
+                Spire is for communication in case of disaster
+              </li>
+            </ul>
+          </td>
+        </tr>
+      </table>
+    </center>
+    <div style="display:flex;  flex-align: left; justify-content:space-between;">
+      <img src="aaaaaaaaaarrrrrrgggggghhhhhhh!!!!!!!!!!!!!!!!!!!!!!!!!!.png" width="20%">
+      <img src="f%20terrorism.png" width="20%">
+      <img src="1%20wtc.png" width="20%">
+      <img src="yay!!!!!.png" width="20%">
+      <img src="911neverforget.png" width="20%">
+      <ol style="float:right;">
+        <li>
+          The twin towers at 8:30 AM, 15 minutes before the nation came under attack.
+        </li>
+        <li>
+          The twin towers during 9/11, just as the 2 wtc is struck.
+        </li>
+        <li>
+          The world Trade Center site now, with the 1 wtc(<i>Freedom Tower</i>) standing tall and proud at <i><b>1776</b></i> ft
+        </li>
+        <li>
+          The World Trade Center site as planned for 2020, with 1, 2, 3, and 4 wtc in view.</li>
+      </ol>
+    </div>
+
+    <center>
+      <p>
+        Let us not forget the heroes of <b>Flight 91</b> or those who lost their lives at the pentagon crash .I would also like to give a special thanks to the 
+        <b style="background-color: black;color:white">
+          NYPD
+        </b>
+        , the 
+        <b style="background-color:darkblue;color:white">
+          PAPD
+        </b>, and the 
+        <b style="background-color:red;color:gold">
+          FDNY
+        </b> for their heroic acts during 9/11.<br>video:
+        <a href="http://video.foxnews.com/v/1151859712001/?#sp=show-clips">9/11 Video
+        </a>
+      </p>
+    </center>
+    <p>
+      <center>  
+        Here is a picture of the beautiful and tranquil <span>
+        9/<span  style="color:DeepSkyBlue">11</span>
+        </span> memorial.
+      </center>  
+      <center> 
+        <img src="voids_02.jpg" width=75% height=400>
+      </center>
+    </p>
+    <center><div style="display:flex;">
+      <div style="display:flex; flex-direction:column;margin-left:10%;width:30%">
+        <img src="embrace%20of%20liberty.png">
+        <img src="daniel.jpg">
+      </div>
+      <img src="1wtc.png" width=50%;>
+      </div></center>
+  </body>
+</html>
